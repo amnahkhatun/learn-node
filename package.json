@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addValues.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev" : "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amnahkhatun/learn-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amnahkhatun/learn-node/issues"
+  },
+  "homepage": "https://github.com/amnahkhatun/learn-node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
